@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#list-users {
+  text-align: center;
+  margin-top: 4vh;
+  font-size: 18px;
+}
+
+.myContainer{
+    /* background-color: rgb(224, 223, 223);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 14px; */
+    padding: 20px;
+    margin: 0 auto;
+    width: 50%;
+}
+.column{
+  padding: 10px 0;
+}
